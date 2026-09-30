@@ -568,6 +568,7 @@ body{overflow-x:hidden}img{max-width:100%}
     .signin{margin:0 7px}.signin a{font-size:12px;padding:5px 9px}
     nav{padding:5px 8px}nav img{width:150px}nav ul li{font-size:12px;padding:5px 8px}
     .section-top{min-height:250px}
+    .card1:nth-child(5){grid-column: 1/2;}
     .background{height:250px}
     .monthly{left:5%;top:10%;width:min(43vw,175px)}
     .monthly1{right:3%;top:12%;width:min(43vw,180px)}

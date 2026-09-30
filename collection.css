@@ -537,6 +537,7 @@ body{overflow-x:hidden}img{max-width:100%}
     header p{height:28px;font-size:17px;padding:3px 8px}
     .nav-bar ul li{font-size:11px;padding:0 7px;letter-spacing:0}
     .nav-bar span{font-size:1.05rem;margin:0 5px}
+    .card1:nth-child(5){grid-column: 1/2;}
     .signin{margin:0 7px}.signin a{font-size:12px;padding:5px 9px}
     nav{padding:5px 8px}nav img{width:150px}nav ul li{font-size:12px;padding:5px 8px}
     .image1{height:260px}

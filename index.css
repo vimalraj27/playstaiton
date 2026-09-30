@@ -712,6 +712,7 @@ body{overflow-x:hidden}img{max-width:100%}
     .signin{margin:0 7px}.signin a{font-size:12px;padding:5px 9px}
     .nav-bar1{padding:5px 8px}.nav-bar1 img{width:150px}.nav-bar1 ul li{font-size:12px;padding:5px 8px}
     .image1,.image3,.background{height:250px}
+    .card1:nth-child(5){grid-column: 1/2;}
     .image2,.monthly{left:5%;top:10%;width:min(43vw,175px)}
     .monthly1{right:3%;top:12%;width:min(43vw,180px)}
     .section-1-bottom,.section-6-bottom{flex-direction:column;align-items:stretch;padding:16px 18px}
